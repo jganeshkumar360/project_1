@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59" started-at="2022-04-02T02:40:58Z" finished-at="2022-04-02T02:40:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59" started-at="2022-04-02T02:40:58Z" finished-at="2022-04-02T02:40:58Z">
+      <class name="Annotations_1.Data_Provider">
+        <test-method status="PASS" signature="adactin_Runne(java.lang.String, int)[pri:0, instance:Annotations_1.Data_Provider@4278a03f]" name="adactin_Runne" duration-ms="10" started-at="2022-04-02T08:10:58Z" data-provider="test_data" finished-at="2022-04-02T08:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ganguly]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[99400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runne -->
+        <test-method status="PASS" signature="adactin_Runne(java.lang.String, int)[pri:0, instance:Annotations_1.Data_Provider@4278a03f]" name="adactin_Runne" duration-ms="1" started-at="2022-04-02T08:10:58Z" data-provider="test_data" finished-at="2022-04-02T08:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sachine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54543]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runne -->
+        <test-method status="PASS" signature="adactin_Runne(java.lang.String, int)[pri:0, instance:Annotations_1.Data_Provider@4278a03f]" name="adactin_Runne" duration-ms="1" started-at="2022-04-02T08:10:58Z" data-provider="test_data" finished-at="2022-04-02T08:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dravid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[545]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adactin_Runne -->
+        <test-method status="PASS" signature="automation_Runner(java.lang.String, int)[pri:0, instance:Annotations_1.Data_Provider@4278a03f]" name="automation_Runner" duration-ms="2" started-at="2022-04-02T08:10:58Z" data-provider="test_data" finished-at="2022-04-02T08:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ganguly]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[99400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation_Runner -->
+        <test-method status="PASS" signature="automation_Runner(java.lang.String, int)[pri:0, instance:Annotations_1.Data_Provider@4278a03f]" name="automation_Runner" duration-ms="1" started-at="2022-04-02T08:10:58Z" data-provider="test_data" finished-at="2022-04-02T08:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sachine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54543]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation_Runner -->
+        <test-method status="PASS" signature="automation_Runner(java.lang.String, int)[pri:0, instance:Annotations_1.Data_Provider@4278a03f]" name="automation_Runner" duration-ms="1" started-at="2022-04-02T08:10:58Z" data-provider="test_data" finished-at="2022-04-02T08:10:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dravid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[545]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation_Runner -->
+      </class> <!-- Annotations_1.Data_Provider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
